@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Kyle Nye
 
-<!--
-**Kyle-Nye/kyle-nye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a digital content strategist turned tech systems engineer with a passion for storytelling, automation, and experimentation.
 
-Here are some ideas to get you started:
+With experience across digital media, marketing, AV operations, and internal tools, I've worn many hats—from creating full-funnel content strategies and running affiliate campaigns to managing self-driving fleets and troubleshooting robotic systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I Do
+
+- 📹 **Digital Marketing & Content Strategy**  
+  Built and scaled Amazon affiliate storefronts, social campaigns, and multimedia content—leveraging SEO, SEM, and performance analytics.
+
+- 🤖 **AV Systems & Fleet Operations**  
+  Worked hands-on with autonomous vehicle systems at Zoox and Nuro—leading ops teams, writing SOPs, and optimizing hardware/software reliability.
+
+- 💡 **AI Experimentation & SEO Automation**  
+  I run [Geektak.com](https://geektak.com), a content site focused on AI news and tools. I use LLMs to build SEO-optimized posts and analyze real-time traffic data. Recently achieved 16K+ impressions with a 3.1% CTR in a competitive niche.
+
+## 📬 Let's Connect
+ 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kylenye/)
+
+---
+
+
+
