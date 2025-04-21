@@ -20,8 +20,3 @@ With experience across digital media, marketing, AV operations, and internal too
 ## 📬 Let's Connect
  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kylenye/)
-
----
-
-
-
