@@ -2,8 +2,6 @@
 
 I'm a digital content strategist turned tech systems engineer with a passion for storytelling, automation, and experimentation.
 
-With experience across digital media, marketing, AV operations, and internal tools, I've worn many hats—from creating full-funnel content strategies and running affiliate campaigns to managing self-driving fleets and troubleshooting robotic systems.
-
 ---
 
 ## 🔧 What I Do
