@@ -1,20 +1,33 @@
 # 👋 Hi, I'm Kyle Nye
 
-I'm a digital content strategist turned tech systems engineer with a passion for storytelling, automation, and experimentation.
+I'm a technical systems specialist pivoting into IT support and infrastructure roles, with a background in AV robotics, Python automation, and internal tools.
 
 ---
 
 ## 🔧 What I Do
 
-- 📹 **Digital Marketing & Content Strategy**  
-  Built and scaled Amazon affiliate storefronts, social campaigns, and multimedia content—leveraging SEO, SEM, and performance analytics.
+- **Systems Support & Troubleshooting**  
+  Provided Linux-based diagnostics and HW/SW support for autonomous robotics platforms at Zoox and Nuro.
 
-- 🤖 **AV Systems & Fleet Operations**  
-  Worked hands-on with autonomous vehicle systems at Zoox and Nuro—leading ops teams, writing SOPs, and optimizing hardware/software reliability.
+- **Python Scripting & Automation**  
+  Building tools for log parsing, backups, and system monitoring.
 
-- 💡 **AI Experimentation & SEO Automation**  
-  I run [Geektak.com](https://geektak.com), a content site focused on AI news and tools. I use LLMs to build SEO-optimized posts and analyze real-time traffic data. Recently achieved 16K+ impressions with a 3.1% CTR in a competitive niche.
+- **AI & Platform Awareness**  
+  Exploring MLOps tools and generative AI workflows through personal projects and courses.
+
+- **Docs & Ops**  
+  Known for writing clear SOPs and collaborating across engineering, UX, and IT teams.
+
+---
+
+## 🚀 Projects on This GitHub
+
+- `log-parser`: System log parser (Python)
+- `auto-backup`: File backup script
+- `it-sop-library`: IT onboarding SOP documentation
+
+---
 
 ## 📬 Let's Connect
- 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kylejnye/)
+
+- [LinkedIn](https://www.linkedin.com/in/yourname)
