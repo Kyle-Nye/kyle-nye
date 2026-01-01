@@ -33,7 +33,7 @@ I sit at the intersection of **IT Operations** and **AI-Native Development**. My
 * **Key Tech:** Incremental Static Regeneration (ISR), Self-Healing Sidebar Navigation, Typewriter Text Effects.
 * **Status:** Production [Live at Geektak.com]
 
-### [🔄 n8n Content Pipeline (Private Source)](https://github.com/Kyle-Nye)
+### [🔄 n8n Content Pipeline (Open source)](https://github.com/Kyle-Nye)
 *An autonomous agent loop that monitors RSS feeds, summarizes content using Gemini 1.5, and drafts structured WordPress posts.*
 * **Workflow:** Webhook Listener ➡ JSON Parser ➡ LLM Summarization ➡ CMS Posting.
 
